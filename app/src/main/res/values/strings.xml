@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWebViewer</string>
+    <string name="ucsdWebsite">UCSD Extension</string>
+    <string name="goText">Go</string>
+    <string name="engilityWebsite">Engility</string>
+    <string name="title">Please choose a website</string>
+</resources>
